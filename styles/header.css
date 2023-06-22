@@ -19,3 +19,6 @@
     .container__imagem{
         padding: 1em;
     }
+    .lista__menu{
+        display: none;
+    }
