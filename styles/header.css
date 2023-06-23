@@ -24,7 +24,22 @@
         display: none;
         position: absolute;
         top: 100%;
+        width: 60dvw;
     }
     .conteiner__botao:checked~.lista__menu{
         display:block;
+    }
+    .lista__menu-titulo, .lista__menu-item {
+        padding: 1em;
+        background-color: var(--branco);
+    }
+    .lista__menu-titulo{
+        color: var(--amarelo);
+
+    }
+    .lista__menu-link{
+        background: var(--roxo-degrade);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-transform: uppercase;
     }
