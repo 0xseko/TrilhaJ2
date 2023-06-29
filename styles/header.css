@@ -13,7 +13,7 @@
         align-items: center;
         position: relative;
     }
-    .container{
+    .conteiner{
         display: flex;
         align-items: center;
     }
@@ -30,7 +30,7 @@
     .conteiner__botao:checked~.lista__menu{
         display:block;
     }
-    .container__botao {
+    .conteiner__botao {
         display: none;
     }
     .lista__menu-titulo, .lista__menu-item {
