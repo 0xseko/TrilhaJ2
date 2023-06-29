@@ -44,7 +44,7 @@
     .lista__menu-link{
         background: var(--roxo-degrade);
         -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        -webkit-text-fill-color: black;
         background-clip: text;
         text-transform: uppercase;
     }
