@@ -45,7 +45,7 @@
         background: var(--roxo);
         -webkit-background-clip: text;
         -webkit-text-fill-color: black;
-        font-weight: 0,5em;
+        font-weight: 0.5em;
         background-clip: text;
         text-transform: uppercase;
     }
